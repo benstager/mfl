@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: mfl
+Version: 1.0.0
+Summary: Package designed for machine learning and the NFL
+Author-email: Ben Stager <bstager@tulane.edu>
+License-Expression: MIT
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: pandas==1.5.3
+Requires-Dist: numpy>=1.26.4
+Requires-Dist: bs4>=0.0.2
+Requires-Dist: requests>=2.32.3
+Requires-Dist: nfl_data_py==0.3.3
+
+### api 
+-Current work for mfl package  
+
+### data
+-Current home of backend data  
+
+### models
+-Model graveyard  
+
+### notebooks
+-All my notebooks
